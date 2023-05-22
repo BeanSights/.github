@@ -10,7 +10,7 @@
 
 ## 🦁 팀원
 
-| [<img src="https://avatars.githubusercontent.com/udonggi" width="200">](https://github.com/udonggi) | [<img src="https://avatars.githubusercontent.com/Aidennnn97" width="200">](https://github.com/Aidennnn97) | [<img src="https://avatars.githubusercontent.com/chanosong" width="200">](https://github.com/joong2043) | [<img src="https://avatars.githubusercontent.com/Min9807" width="200">](https://github.com/Min9807) |  
+| [<img src="https://avatars.githubusercontent.com/udonggi" width="200">](https://github.com/udonggi) | [<img src="https://avatars.githubusercontent.com/Aidennnn97" width="200">](https://github.com/Aidennnn97) | [<img src="https://avatars.githubusercontent.com/chanosong" width="200">](https://github.com/chanosong) | [<img src="https://avatars.githubusercontent.com/Min9807" width="200">](https://github.com/Min9807) |  
 |:-----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 |                                [유동기 (팀장)](https://github.com/udonggi)                                |                                  [김민성](https://github.com/Aidennnn97)                                   |                                   [송찬호](https://github.com/chanosong)                                   |                                  [이정민](https://github.com/Min9807)                                  |
 
